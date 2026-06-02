@@ -1,0 +1,3952 @@
+[
+    {
+        "name":  "Counter-Strike 2",
+        "steam_appid":  730,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "PUBG: BATTLEGROUNDS",
+        "steam_appid":  578080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Dota 2",
+        "steam_appid":  570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Apex Legends",
+        "steam_appid":  1172470,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Forza Horizon 6",
+        "steam_appid":  2483190,
+        "cover":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/27abb1584a118d50d0e3950fd48d557c51981db7/header.jpg?t=1779912021",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "Bongo Cat",
+        "steam_appid":  3419430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419430/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Slay the Spire 2",
+        "steam_appid":  2868840,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Delta Force",
+        "steam_appid":  2507950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Rust",
+        "steam_appid":  252490,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Wallpaper Engine",
+        "steam_appid":  431960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Stardew Valley",
+        "steam_appid":  413150,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Limbus Company",
+        "steam_appid":  1973530,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Spacewar",
+        "steam_appid":  1176160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1176160/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Grand Theft Auto V Legacy",
+        "steam_appid":  271590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "War Thunder",
+        "steam_appid":  236390,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Grand Theft Auto V Enhanced",
+        "steam_appid":  3240220,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "TBH: Task Bar Hero",
+        "steam_appid":  3678970,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "NARAKA: BLADEPOINT",
+        "steam_appid":  1203220,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203220/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Warframe",
+        "steam_appid":  230410,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Overwatch®",
+        "steam_appid":  2357570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "R.E.P.O.",
+        "steam_appid":  3241660,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Dead by Daylight",
+        "steam_appid":  381210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Geometry Dash",
+        "steam_appid":  322170,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Street Fighter™ 6",
+        "steam_appid":  1364780,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Tom Clancy\u0027s Rainbow Six Siege",
+        "steam_appid":  359550,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "007 First Light",
+        "steam_appid":  3768760,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "EA SPORTS FC™ 26",
+        "steam_appid":  3405690,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405690/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Hearts of Iron IV",
+        "steam_appid":  394360,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "VRChat",
+        "steam_appid":  438100,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg",
+        "categories":  [
+                           "VR"
+                       ]
+    },
+    {
+        "name":  "Marvel Rivals",
+        "steam_appid":  2767030,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Team Fortress 2",
+        "steam_appid":  440,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Deadlock",
+        "steam_appid":  1422450,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Don\u0027t Starve Together",
+        "steam_appid":  322330,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Subnautica 2",
+        "steam_appid":  1962700,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "NBA 2K26",
+        "steam_appid":  3472040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Football Manager 26",
+        "steam_appid":  3551340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3551340/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Sid Meier\u0027s Civilization VI",
+        "steam_appid":  289070,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "ARC Raiders",
+        "steam_appid":  1808500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "ELDEN RING NIGHTREIGN",
+        "steam_appid":  2622380,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "tModLoader",
+        "steam_appid":  1281930,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1281930/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Baldur\u0027s Gate 3",
+        "steam_appid":  1086940,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Red Dead Redemption 2",
+        "steam_appid":  1174180,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Crosshair X",
+        "steam_appid":  1366800,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1366800/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "DayZ",
+        "steam_appid":  221100,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "HELLDIVERS™ 2",
+        "steam_appid":  553850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "ELDEN RING",
+        "steam_appid":  1245620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Euro Truck Simulator 2",
+        "steam_appid":  227300,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Battlefield™ 6",
+        "steam_appid":  2807960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Terraria",
+        "steam_appid":  105600,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Total War: WARHAMMER III",
+        "steam_appid":  1142710,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Crimson Desert",
+        "steam_appid":  3321460,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "RimWorld",
+        "steam_appid":  294100,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Where Winds Meet",
+        "steam_appid":  3564740,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Cyberpunk 2077",
+        "steam_appid":  1091500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "ARK: Survival Ascended",
+        "steam_appid":  2399830,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "PAYDAY 2",
+        "steam_appid":  218620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Counter-Strike: Source",
+        "steam_appid":  240,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Mount \u0026 Blade II: Bannerlord",
+        "steam_appid":  261550,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "OBS Studio",
+        "steam_appid":  1905180,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1905180/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Left 4 Dead 2",
+        "steam_appid":  550,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Call of Duty®",
+        "steam_appid":  1938090,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Project Zomboid",
+        "steam_appid":  108600,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "BidKing",
+        "steam_appid":  4128580,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4128580/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Garry\u0027s Mod",
+        "steam_appid":  4000,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "PEAK",
+        "steam_appid":  3527290,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Hunt: Showdown 1896",
+        "steam_appid":  594650,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "ARK: Survival Evolved",
+        "steam_appid":  346110,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Subnautica",
+        "steam_appid":  264710,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "The Sims™ 4",
+        "steam_appid":  1222670,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Escape from Tarkov",
+        "steam_appid":  3932890,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932890/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Warhammer 40,000: Space Marine 2",
+        "steam_appid":  2183900,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Monster Hunter: World",
+        "steam_appid":  582010,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Paralives",
+        "steam_appid":  1118520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118520/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Romestead",
+        "steam_appid":  1805320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1805320/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Russian Fishing 4",
+        "steam_appid":  766570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/766570/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "7 Days to Die",
+        "steam_appid":  251570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Palworld",
+        "steam_appid":  1623730,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Diablo® IV",
+        "steam_appid":  2344520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Arena Breakout: Infinite",
+        "steam_appid":  2073620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073620/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "BeamNG.drive",
+        "steam_appid":  284160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Farming Simulator 25",
+        "steam_appid":  2300320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "The Binding of Isaac: Rebirth",
+        "steam_appid":  250900,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "The Elder Scrolls V: Skyrim Special Edition",
+        "steam_appid":  489830,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Wuthering Waves",
+        "steam_appid":  3513350,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "eFootball™",
+        "steam_appid":  1665460,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1665460/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Football Manager 2024",
+        "steam_appid":  2252570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2252570/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Eternal Return",
+        "steam_appid":  1049590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1049590/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Age of Empires II: Definitive Edition",
+        "steam_appid":  813780,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Squad",
+        "steam_appid":  393380,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/393380/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Black Desert",
+        "steam_appid":  582660,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Crusader Kings III",
+        "steam_appid":  1158310,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "VTube Studio",
+        "steam_appid":  1325860,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1325860/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Soundpad",
+        "steam_appid":  629520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629520/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Outlast Trials",
+        "steam_appid":  1304930,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1304930/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Counter-Strike:Global Offensive",
+        "steam_appid":  730,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "FINAL FANTASY XIV Online",
+        "steam_appid":  39210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "No Man\u0027s Sky",
+        "steam_appid":  275850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Windrose",
+        "steam_appid":  3041230,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3041230/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Witcher 3: Wild Hunt",
+        "steam_appid":  292030,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Yu-Gi-Oh! Master Duel",
+        "steam_appid":  1449850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Heartopia",
+        "steam_appid":  4025700,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4025700/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Conan Exiles Enhanced",
+        "steam_appid":  440900,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Unturned",
+        "steam_appid":  304930,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304930/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Path of Exile 2",
+        "steam_appid":  2694490,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Factorio",
+        "steam_appid":  427520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Once Human",
+        "steam_appid":  2139460,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2139460/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Heroes of Might and Magic: Olden Era",
+        "steam_appid":  3105440,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Forza Horizon 5",
+        "steam_appid":  1551360,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "STALCRAFT: X",
+        "steam_appid":  1818450,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1818450/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Stellaris",
+        "steam_appid":  281990,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Black Myth: Wukong",
+        "steam_appid":  2358720,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Age of Empires IV: Anniversary Edition",
+        "steam_appid":  1466860,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Kingdom Come: Deliverance II",
+        "steam_appid":  1771300,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Rocket League",
+        "steam_appid":  252950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252950/header.jpg",
+        "categories":  [
+                           "CORRIDA",
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "It Takes Two",
+        "steam_appid":  1426210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Slay the Spire",
+        "steam_appid":  646570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Monster Hunter Wilds",
+        "steam_appid":  2246340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Satisfactory",
+        "steam_appid":  526870,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Dark and Darker",
+        "steam_appid":  2016590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2016590/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Valheim",
+        "steam_appid":  892970,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Sid Meier\u0027s Civilization V",
+        "steam_appid":  8930,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "SCUM",
+        "steam_appid":  513710,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/513710/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Assetto Corsa",
+        "steam_appid":  244210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "Shadowverse: Worlds Beyond",
+        "steam_appid":  2584990,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2584990/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Librarian: Tidy Up the Arcane Library!",
+        "steam_appid":  4197610,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Oxygen Not Included",
+        "steam_appid":  457140,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Destiny 2",
+        "steam_appid":  1085660,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Blender",
+        "steam_appid":  365670,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365670/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "YoloMouse",
+        "steam_appid":  1283970,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1283970/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Sid Meier\u0027s Civilization VII",
+        "steam_appid":  1295660,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Green Hell",
+        "steam_appid":  815370,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "MIR4",
+        "steam_appid":  1623660,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623660/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Isle",
+        "steam_appid":  376210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Cities: Skylines II",
+        "steam_appid":  949230,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Brotato",
+        "steam_appid":  1942280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1942280/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "World of Warships",
+        "steam_appid":  552990,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552990/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Europa Universalis IV",
+        "steam_appid":  236850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Raft",
+        "steam_appid":  648800,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "TEKKEN 8",
+        "steam_appid":  1778820,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1778820/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Cities: Skylines",
+        "steam_appid":  255710,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Phasmophobia",
+        "steam_appid":  739630,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Blue Archive",
+        "steam_appid":  3557620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3557620/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "MONSTER HUNTER RISE",
+        "steam_appid":  1446780,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Persona 5 Royal",
+        "steam_appid":  1687950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Albion Online",
+        "steam_appid":  761890,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/761890/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "EA SPORTS FC 25",
+        "steam_appid":  2669320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "THE FINALS",
+        "steam_appid":  2073850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Escape the Backrooms",
+        "steam_appid":  1943950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Counter-Strike",
+        "steam_appid":  10,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Ready or Not",
+        "steam_appid":  1144200,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Resident Evil 4",
+        "steam_appid":  2050650,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Brawlhalla",
+        "steam_appid":  291550,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/291550/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Legends of Idleon MMO",
+        "steam_appid":  1476970,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1476970/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Battlefield™ 1",
+        "steam_appid":  1238840,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238840/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Deep Rock Galactic",
+        "steam_appid":  548430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Fallout 4",
+        "steam_appid":  377160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Cookie Clicker",
+        "steam_appid":  1454400,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1454400/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Victoria 3",
+        "steam_appid":  529340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/529340/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "VPet",
+        "steam_appid":  1920960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1920960/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Enshrouded",
+        "steam_appid":  1203620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Risk of Rain 2",
+        "steam_appid":  632360,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "MapleStory",
+        "steam_appid":  3969080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3969080/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Goose Goose Duck",
+        "steam_appid":  1568590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Summoners War",
+        "steam_appid":  2426960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2426960/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Warhammer 40,000: Darktide",
+        "steam_appid":  1361210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "LEGO® Batman™: Legacy of the Dark Knight",
+        "steam_appid":  2215200,
+        "cover":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1779824566",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Hollow Knight: Silksong",
+        "steam_appid":  1030300,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Arma Reforger",
+        "steam_appid":  1874880,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Split Fiction",
+        "steam_appid":  2001120,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Elder Scrolls Online",
+        "steam_appid":  306130,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306130/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Umamusume: Pretty Derby",
+        "steam_appid":  3224770,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224770/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Car Mechanic Simulator 2018",
+        "steam_appid":  645630,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/645630/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Europa Universalis V",
+        "steam_appid":  3450310,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3450310/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Kenshi",
+        "steam_appid":  233860,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233860/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Bazaar",
+        "steam_appid":  1617400,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1617400/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Dying Light",
+        "steam_appid":  239140,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239140/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA",
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Dune: Awakening",
+        "steam_appid":  1172710,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172710/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Hollow Knight",
+        "steam_appid":  367520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Revolution Idle",
+        "steam_appid":  2763740,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2763740/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Forza Horizon 4",
+        "steam_appid":  1293830,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "Schedule I",
+        "steam_appid":  3164500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Party Animals",
+        "steam_appid":  1260320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1260320/header.jpg",
+        "categories":  [
+                           "INDIE",
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Bloons TD 6",
+        "steam_appid":  960090,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "V Rising",
+        "steam_appid":  1604030,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1604030/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Balatro",
+        "steam_appid":  2379780,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Gamble With Your Friends",
+        "steam_appid":  3892270,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3892270/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Magic: The Gathering Arena",
+        "steam_appid":  2141910,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141910/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Arma 3",
+        "steam_appid":  107410,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/107410/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Sons Of The Forest",
+        "steam_appid":  1326470,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "NBA 2K25",
+        "steam_appid":  2878980,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2878980/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Deep Rock Galactic: Rogue Core",
+        "steam_appid":  2605790,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2605790/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Supermarket Together",
+        "steam_appid":  2709570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Battlefield™ V",
+        "steam_appid":  1238810,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Aimlabs",
+        "steam_appid":  714010,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/714010/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "World of Tanks",
+        "steam_appid":  1407200,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1407200/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Divinity: Original Sin 2",
+        "steam_appid":  435150,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "SCP: Secret Laboratory",
+        "steam_appid":  700330,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/700330/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Palia",
+        "steam_appid":  2707930,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2707930/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Kerbal Space Program",
+        "steam_appid":  220200,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "MY HERO ULTRA RUMBLE",
+        "steam_appid":  1607250,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1607250/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Barotrauma",
+        "steam_appid":  602960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Among Us",
+        "steam_appid":  945360,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
+        "categories":  [
+                           "INDIE",
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Play Together",
+        "steam_appid":  3198850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3198850/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Resident Evil Requiem",
+        "steam_appid":  3764200,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Realm of Ink",
+        "steam_appid":  2597080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "DSX",
+        "steam_appid":  1812620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1812620/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The First Descendant",
+        "steam_appid":  2074920,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2074920/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "House Flipper",
+        "steam_appid":  613100,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613100/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "KARDS - The WWII Card Game",
+        "steam_appid":  544810,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544810/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Clair Obscur: Expedition 33",
+        "steam_appid":  1903340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Game of Thrones Kingsroad",
+        "steam_appid":  3183280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3183280/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Cell to Singularity - Evolution Never Ends",
+        "steam_appid":  977400,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/977400/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Lost Ark",
+        "steam_appid":  1599340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1599340/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Lethal Company",
+        "steam_appid":  1966720,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+        "categories":  [
+                           "TERROR",
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Company of Heroes 3",
+        "steam_appid":  1677280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677280/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Lossless Scaling",
+        "steam_appid":  993090,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Total War: THREE KINGDOMS",
+        "steam_appid":  779340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "F1® 25",
+        "steam_appid":  3059520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "DARK SOULS™ III",
+        "steam_appid":  374320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "DAVE THE DIVER",
+        "steam_appid":  1868140,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "鬼谷八荒 Tale of Immortal",
+        "steam_appid":  1468810,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1468810/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Sekiro™: Shadows Die Twice",
+        "steam_appid":  814380,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Tom Clancy\u0027s The Division 2",
+        "steam_appid":  2221490,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2221490/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Mina the Hollower",
+        "steam_appid":  1875580,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875580/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Soulmask",
+        "steam_appid":  2646460,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2646460/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Hogwarts Legacy",
+        "steam_appid":  990080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "World of Tanks Blitz",
+        "steam_appid":  444200,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/444200/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Mewgenics",
+        "steam_appid":  686060,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Sky: Children of the Light",
+        "steam_appid":  2325290,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2325290/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Overcooked! 2",
+        "steam_appid":  728880,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+        "categories":  [
+                           "INDIE",
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Aseprite",
+        "steam_appid":  431730,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431730/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Teamfight Manager 2",
+        "steam_appid":  3009300,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3009300/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Gray Zone Warfare",
+        "steam_appid":  2479810,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Darkest Dungeon®",
+        "steam_appid":  262060,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Off The Grid",
+        "steam_appid":  3659280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3659280/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "People Playground",
+        "steam_appid":  1118200,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Diablo II: Resurrected – Infernal Edition",
+        "steam_appid":  2536520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "American Truck Simulator",
+        "steam_appid":  270880,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/270880/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Core Keeper",
+        "steam_appid":  1621690,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Subnautica: Below Zero",
+        "steam_appid":  848450,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Path of Exile",
+        "steam_appid":  238960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238960/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Banana",
+        "steam_appid":  2923300,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2923300/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Unnamed Space Idle",
+        "steam_appid":  2471100,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2471100/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Farming Simulator 22",
+        "steam_appid":  1248130,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "BLOODSTRIKE",
+        "steam_appid":  3199170,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3199170/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Far Far West",
+        "steam_appid":  3124540,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124540/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Kingdom Come: Deliverance",
+        "steam_appid":  379430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379430/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Tabletop Simulator",
+        "steam_appid":  286160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "STAR WARS™: The Old Republic™",
+        "steam_appid":  1286830,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1286830/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Call to Arms - Gates of Hell: Ostfront",
+        "steam_appid":  400750,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400750/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Devil May Cry 5",
+        "steam_appid":  601150,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "House Flipper 2",
+        "steam_appid":  1190970,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Warhammer 40,000: Rogue Trader",
+        "steam_appid":  2186680,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2186680/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Fallout 76",
+        "steam_appid":  1151340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "EVE Online",
+        "steam_appid":  8500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8500/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Spell Brigade",
+        "steam_appid":  2904000,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904000/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Seven Deadly Sins: Origin",
+        "steam_appid":  3679080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3679080/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Broken Arrow",
+        "steam_appid":  1604270,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1604270/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Killing Floor 2",
+        "steam_appid":  232090,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/232090/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "steam_appid":  1643320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1643320/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Starfield",
+        "steam_appid":  1716740,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Mount \u0026 Blade: Warband",
+        "steam_appid":  48700,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48700/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Marathon",
+        "steam_appid":  3065800,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3065800/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Desktop Mate",
+        "steam_appid":  3301060,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3301060/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Hades II",
+        "steam_appid":  1145350,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Conqueror\u0027s Blade",
+        "steam_appid":  835570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/835570/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Detroit: Become Human",
+        "steam_appid":  1222140,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Pummel Party",
+        "steam_appid":  880940,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg",
+        "categories":  [
+                           "INDIE",
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Crosshair V2",
+        "steam_appid":  2250040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2250040/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Dyson Sphere Program",
+        "steam_appid":  1366540,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1366540/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Total War: ROME II - Emperor Edition",
+        "steam_appid":  214950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "小黑盒加速器",
+        "steam_appid":  1447430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1447430/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "DEATH STRANDING 2: ON THE BEACH",
+        "steam_appid":  3280350,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "HITMAN World of Assassination",
+        "steam_appid":  1659040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "OVR Advanced Settings",
+        "steam_appid":  1009850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1009850/header.jpg",
+        "categories":  [
+                           "VR"
+                       ]
+    },
+    {
+        "name":  "Timberborn",
+        "steam_appid":  1062090,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1062090/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Warhammer: Vermintide 2",
+        "steam_appid":  552500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552500/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Microsoft Flight Simulator 2024",
+        "steam_appid":  2537590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Wandering Sword",
+        "steam_appid":  1876890,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876890/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Warhammer 40,000: Gladius - Relics of War",
+        "steam_appid":  489630,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Ranch Simulator",
+        "steam_appid":  1573650,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1573650/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Bongo Waifu",
+        "steam_appid":  3861430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3861430/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Forest",
+        "steam_appid":  242760,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Fishing Planet",
+        "steam_appid":  380600,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Astral Party",
+        "steam_appid":  2622000,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622000/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Burglin\u0027 Gnomes Demo",
+        "steam_appid":  4356080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4356080/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Shop Titans",
+        "steam_appid":  1258080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1258080/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "THRONE AND LIBERTY",
+        "steam_appid":  2429640,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2429640/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Age of Empires III: Definitive Edition",
+        "steam_appid":  933110,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/933110/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Fish Idle 2: Underwater Mystery",
+        "steam_appid":  3037410,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3037410/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Icarus",
+        "steam_appid":  1149460,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "ULTRAKILL",
+        "steam_appid":  1229490,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "StarSavior",
+        "steam_appid":  3609080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3609080/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Chained Together",
+        "steam_appid":  2567870,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "World of Tanks: HEAT",
+        "steam_appid":  2100280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2100280/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Soundpad Demo",
+        "steam_appid":  632810,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632810/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Planet Zoo",
+        "steam_appid":  703080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Abiotic Factor",
+        "steam_appid":  427410,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427410/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Frostpunk",
+        "steam_appid":  323190,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Hades",
+        "steam_appid":  1145360,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Borderlands® 4",
+        "steam_appid":  1285190,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Oaken Tower",
+        "steam_appid":  3400960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3400960/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Assassin\u0027s Creed Odyssey",
+        "steam_appid":  812140,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Cheap Car Repair",
+        "steam_appid":  2904040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "龙胤立志传",
+        "steam_appid":  3202030,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3202030/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Elite Dangerous",
+        "steam_appid":  359320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "PRAGMATA",
+        "steam_appid":  3357650,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Tap Ninja",
+        "steam_appid":  1939241,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1939241/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Enlisted",
+        "steam_appid":  2051620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2051620/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Vampire Survivors",
+        "steam_appid":  1794680,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Sea of Thieves",
+        "steam_appid":  1172620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Grim Dawn",
+        "steam_appid":  219990,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219990/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Plants vs. Zombies: Game of the Year",
+        "steam_appid":  3590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Escape from Duckov",
+        "steam_appid":  3167020,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167020/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "theHunter: Call of the Wild™",
+        "steam_appid":  518790,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Backrooms: Escape Together",
+        "steam_appid":  2141730,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/header.jpg",
+        "categories":  [
+                           "TERROR",
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Transport Fever 2",
+        "steam_appid":  1066780,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1066780/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Company of Heroes 2",
+        "steam_appid":  231430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/231430/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "XCOM 2",
+        "steam_appid":  268500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Your Chronicle",
+        "steam_appid":  1546320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1546320/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "World War Z",
+        "steam_appid":  699130,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Guild Wars 2®",
+        "steam_appid":  1284210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284210/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Teardown",
+        "steam_appid":  1167630,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167630/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Melvor Idle",
+        "steam_appid":  1267910,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267910/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "GrandChase",
+        "steam_appid":  985810,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/985810/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "ShareX",
+        "steam_appid":  400040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400040/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Mini Cozy Room: Lo-Fi",
+        "steam_appid":  3511030,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3511030/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Space Engineers",
+        "steam_appid":  244850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244850/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Stellar Blade™",
+        "steam_appid":  3489700,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Total War: MEDIEVAL II - Definitive Edition",
+        "steam_appid":  4700,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Car Mechanic Simulator 2021",
+        "steam_appid":  1190000,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190000/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "KovaaK\u0027s",
+        "steam_appid":  824270,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/824270/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Planet Crafter",
+        "steam_appid":  1284190,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "DDNet",
+        "steam_appid":  412220,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412220/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Hell Let Loose",
+        "steam_appid":  686810,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "NGU IDLE",
+        "steam_appid":  1147690,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1147690/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Human Fall Flat",
+        "steam_appid":  477160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+        "categories":  [
+                           "INDIE",
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Grand Theft Auto IV: The Complete Edition",
+        "steam_appid":  12210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Persona5: The Phantom X",
+        "steam_appid":  3061570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3061570/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Granblue Fantasy: Relink",
+        "steam_appid":  881020,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "SAO Utils 2: Progressive",
+        "steam_appid":  877280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/877280/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Assassin\u0027s Creed Shadows",
+        "steam_appid":  3159330,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Dwarf Eats Mountain",
+        "steam_appid":  4078200,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078200/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "SnowRunner",
+        "steam_appid":  1465360,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Graveyard Keeper",
+        "steam_appid":  599140,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Dying Light 2: Reloaded Edition",
+        "steam_appid":  534380,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA",
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Casualties: Unknown Demo",
+        "steam_appid":  4576510,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576510/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Megabonk",
+        "steam_appid":  3405340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405340/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "They Are Billions",
+        "steam_appid":  644930,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/644930/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Tap Tap Loot",
+        "steam_appid":  3959890,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3959890/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Call of Duty: Black Ops III",
+        "steam_appid":  311210,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Call of Duty®: Modern Warfare®",
+        "steam_appid":  2000950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Manor Lords",
+        "steam_appid":  1363080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "9 Kings",
+        "steam_appid":  2784470,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2784470/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Sephiria",
+        "steam_appid":  2436940,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2436940/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Starminer",
+        "steam_appid":  1116050,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1116050/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Assassin\u0027s Creed Valhalla",
+        "steam_appid":  2208920,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "The Long Dark",
+        "steam_appid":  305620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/305620/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "A Dance of Fire and Ice",
+        "steam_appid":  977950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/977950/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Microsoft Flight Simulator (2020)",
+        "steam_appid":  1250410,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Captain of Industry",
+        "steam_appid":  1594320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1594320/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Resident Evil 2",
+        "steam_appid":  883710,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "FOR HONOR",
+        "steam_appid":  304390,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304390/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Persona 3 Reload",
+        "steam_appid":  2161700,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Supermarket Simulator",
+        "steam_appid":  2670630,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "DARK SOULS™: REMASTERED",
+        "steam_appid":  570940,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Feed The Cups",
+        "steam_appid":  2336220,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2336220/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Foxhole",
+        "steam_appid":  505460,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/505460/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Le Mans Ultimate",
+        "steam_appid":  2399420,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399420/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "Mecha BREAK",
+        "steam_appid":  2452280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2452280/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Chill with You Lo-Fi Story",
+        "steam_appid":  3548580,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3548580/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "GUILTY GEAR -STRIVE-",
+        "steam_appid":  1384160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1384160/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Scritchy Scratchy",
+        "steam_appid":  3948120,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3948120/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Grounded",
+        "steam_appid":  962130,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "STAR WARS™ Battlefront™ II",
+        "steam_appid":  1237950,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237950/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Football Manager 2023",
+        "steam_appid":  1904540,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904540/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Rise of the Tomb Raider",
+        "steam_appid":  391220,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Anno 1800",
+        "steam_appid":  916440,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/916440/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Assetto Corsa Competizione",
+        "steam_appid":  805550,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/805550/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "Dead Cells",
+        "steam_appid":  588650,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "gogh: Focus with Your Avatar",
+        "steam_appid":  3213850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3213850/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Climber Animals: Together",
+        "steam_appid":  2744880,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2744880/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "Age of Empires II (2013)",
+        "steam_appid":  221380,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221380/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Infinity Nikki",
+        "steam_appid":  3164330,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164330/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "ROMANCE OF THE THREE KINGDOMS XIV",
+        "steam_appid":  872410,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/872410/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Sultan\u0027s Game",
+        "steam_appid":  3117820,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3117820/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "WUCHANG: Fallen Feathers",
+        "steam_appid":  2277560,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2277560/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "SMITE 2",
+        "steam_appid":  2437170,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2437170/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Workers \u0026 Resources: Soviet Republic",
+        "steam_appid":  784150,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/784150/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Ghost of Tsushima DIRECTOR\u0027S CUT",
+        "steam_appid":  2215430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Strinova",
+        "steam_appid":  1282270,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1282270/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Farthest Frontier",
+        "steam_appid":  1044720,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+        "steam_appid":  1184370,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1184370/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Sausage Hunter",
+        "steam_appid":  1296880,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1296880/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Wallpaper Play",
+        "steam_appid":  3413340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3413340/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Call of Duty®: Modern Warfare® II",
+        "steam_appid":  3595230,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3595230/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Far Cry 5",
+        "steam_appid":  552520,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Backpack Battles",
+        "steam_appid":  2427700,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2427700/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Ravenswatch",
+        "steam_appid":  2071280,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2071280/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "X4: Foundations",
+        "steam_appid":  392160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/392160/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Space Haven",
+        "steam_appid":  979110,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/979110/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Mortal Kombat 11",
+        "steam_appid":  976310,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Draw \u0026 Guess",
+        "steam_appid":  1483870,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1483870/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Grounded 2",
+        "steam_appid":  2661300,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2661300/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Fallout: New Vegas",
+        "steam_appid":  22380,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Fallout Shelter",
+        "steam_appid":  588430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588430/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "MyDockFinder",
+        "steam_appid":  1787090,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1787090/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "HudSight - crosshair overlay",
+        "steam_appid":  1477830,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1477830/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "XSOverlay",
+        "steam_appid":  1173510,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1173510/header.jpg",
+        "categories":  [
+                           "VR"
+                       ]
+    },
+    {
+        "name":  "Halo Infinite",
+        "steam_appid":  1240440,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1240440/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Batman™: Arkham Knight",
+        "steam_appid":  208650,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "inZOI",
+        "steam_appid":  2456740,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Stumble Guys",
+        "steam_appid":  1677740,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677740/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Disney Dreamlight Valley",
+        "steam_appid":  1401590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1401590/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Total War: SHOGUN 2",
+        "steam_appid":  201270,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201270/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Lust Goddess",
+        "steam_appid":  2808930,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2808930/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Stronghold Crusader: Definitive Edition",
+        "steam_appid":  3024040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3024040/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Lobotomy Corporation",
+        "steam_appid":  896000,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/896000/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Noita",
+        "steam_appid":  881100,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "RV There Yet?",
+        "steam_appid":  3949040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "The Last Caretaker",
+        "steam_appid":  1783560,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1783560/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Age of Mythology: Retold",
+        "steam_appid":  1934680,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1934680/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Assassin\u0027s Creed Origins",
+        "steam_appid":  582160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582160/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Lost Castle 2",
+        "steam_appid":  2445690,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2445690/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Reverse: 1999",
+        "steam_appid":  3092660,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3092660/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Total War: ATTILA",
+        "steam_appid":  325610,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/325610/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Dying Light: The Beast",
+        "steam_appid":  3008130,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008130/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA",
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Morimens",
+        "steam_appid":  3052450,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3052450/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "REMATCH",
+        "steam_appid":  2138720,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138720/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "EA SPORTS FC™ 24",
+        "steam_appid":  2195250,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2195250/header.jpg",
+        "categories":  [
+                           "ESPORTES"
+                       ]
+    },
+    {
+        "name":  "Darkest Dungeon® II",
+        "steam_appid":  1940340,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "DARK SOULS™ II: Scholar of the First Sin",
+        "steam_appid":  335300,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "The Quinfall",
+        "steam_appid":  2294660,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2294660/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Wizardry Variants Daphne",
+        "steam_appid":  2379740,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379740/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Resident Evil Village",
+        "steam_appid":  1196590,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
+        "categories":  [
+                           "TERROR"
+                       ]
+    },
+    {
+        "name":  "Call of Duty®: Modern Warfare® III",
+        "steam_appid":  3595270,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3595270/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "MARVEL SNAP",
+        "steam_appid":  1997040,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1997040/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Cuphead",
+        "steam_appid":  268910,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Library Of Ruina",
+        "steam_appid":  1256670,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Yu-Gi-Oh! Duel Links",
+        "steam_appid":  601510,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601510/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Don\u0027t Starve",
+        "steam_appid":  219740,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219740/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Hero\u0027s Land",
+        "steam_appid":  2349820,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2349820/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "ONE PIECE Bounty Rush",
+        "steam_appid":  2918150,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2918150/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Mortal Kombat 1",
+        "steam_appid":  1971870,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Need for Speed™ Heat",
+        "steam_appid":  1222680,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+        "steam_appid":  1367080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1367080/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Totally Accurate Battle Simulator",
+        "steam_appid":  508440,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/508440/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Halo: The Master Chief Collection",
+        "steam_appid":  976730,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "World of Sea Battle",
+        "steam_appid":  2948190,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2948190/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Brick Rigs",
+        "steam_appid":  552100,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552100/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "NOBUNAGA\u0027S AMBITION: Awakening",
+        "steam_appid":  1336980,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336980/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Ghost Recon Breakpoint",
+        "steam_appid":  2231380,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2231380/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "WorldBox - God Simulator",
+        "steam_appid":  1206560,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206560/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Total War: EMPIRE - Definitive Edition",
+        "steam_appid":  10500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10500/header.jpg",
+        "categories":  [
+                           "SIMULADOR"
+                       ]
+    },
+    {
+        "name":  "Plague Inc: Evolved",
+        "steam_appid":  246620,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Age of Wonders 4",
+        "steam_appid":  1669000,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "HumanitZ",
+        "steam_appid":  1766060,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1766060/header.jpg",
+        "categories":  [
+                           "SOBREVIVÊNCIA"
+                       ]
+    },
+    {
+        "name":  "Idle Champions of the Forgotten Realms",
+        "steam_appid":  627690,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627690/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Titanfall® 2",
+        "steam_appid":  1237970,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Mass Effect™ Legendary Edition",
+        "steam_appid":  1328670,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328670/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "STAR WARS Jedi: Survivor™",
+        "steam_appid":  1774580,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "觅长生",
+        "steam_appid":  1189490,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1189490/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Deep Rock Galactic: Survivor",
+        "steam_appid":  2321470,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg",
+        "categories":  [
+                           "COOP"
+                       ]
+    },
+    {
+        "name":  "MX Bikes",
+        "steam_appid":  655500,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/655500/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "Celeste",
+        "steam_appid":  504230,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Godot Engine",
+        "steam_appid":  404790,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/404790/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Stoneshard",
+        "steam_appid":  625960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/625960/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Clicker Heroes",
+        "steam_appid":  363970,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/363970/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Knight Online",
+        "steam_appid":  389430,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/389430/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Borderlands 3",
+        "steam_appid":  397540,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Typing Farmer",
+        "steam_appid":  4216670,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4216670/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "DEATH STRANDING DIRECTOR\u0027S CUT",
+        "steam_appid":  1850570,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg",
+        "categories":  [
+                           "MUNDO ABERTO",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "AFK Journey",
+        "steam_appid":  4195600,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4195600/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Tomb Raider",
+        "steam_appid":  224960,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/224960/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Torchlight: Infinite",
+        "steam_appid":  1974050,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1974050/header.jpg",
+        "categories":  [
+                           "RPG"
+                       ]
+    },
+    {
+        "name":  "Battle Brothers",
+        "steam_appid":  365360,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365360/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Idle Hero TD",
+        "steam_appid":  2897580,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2897580/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Kingdom Two Crowns",
+        "steam_appid":  701160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/701160/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Firestone – Idle Clicker Online RPG",
+        "steam_appid":  1013320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1013320/header.jpg",
+        "categories":  [
+                           "INDIE"
+                       ]
+    },
+    {
+        "name":  "Command \u0026 Conquer: Red Alert™ 2 and Yuri’s Revenge™",
+        "steam_appid":  2229850,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229850/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Coral Island",
+        "steam_appid":  1158160,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158160/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "War Robots",
+        "steam_appid":  767560,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/767560/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    },
+    {
+        "name":  "Insurgency: Sandstorm",
+        "steam_appid":  581320,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/581320/header.jpg",
+        "categories":  [
+                           "FPS",
+                           "AÇÃO"
+                       ]
+    },
+    {
+        "name":  "Asphalt Legends",
+        "steam_appid":  1815780,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815780/header.jpg",
+        "categories":  [
+                           "CORRIDA"
+                       ]
+    },
+    {
+        "name":  "MechWarrior 5: Mercenaries",
+        "steam_appid":  784080,
+        "cover":  "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/784080/header.jpg",
+        "categories":  [
+                           "OUTROS"
+                       ]
+    }
+]
